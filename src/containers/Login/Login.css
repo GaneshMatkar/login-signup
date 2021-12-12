@@ -1,0 +1,21 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7%;
+    min-width: 40%;
+    background-color: white;
+    border-radius: 2%;
+    padding: 2%;
+    box-shadow: #272626 5px 8px 17px;
+}
+.background{
+	background-color: #56586b !important;
+	height: 100vh;
+	width: 100%;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
